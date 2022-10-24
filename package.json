@@ -1,0 +1,14 @@
+{
+  "name": "banh-builder-project",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baron102/banh-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baron102/banh-builder/issues"
+  },
+  "homepage": "https://github.com/baron102/banh-builder#readme"
+}
